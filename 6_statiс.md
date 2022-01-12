@@ -25,7 +25,7 @@
 1   
    
 ### С использованием **static**:
-void my_func() 
+    void my_func() 
     {
       static int i = 0;     
       ++i;
