@@ -5,10 +5,10 @@
 3. func ref
 4. элипсис
 5. проект VS
-6. **static**
+6. [static](https://github.com/fakokk/abstracts/blob/main/6_statiс.md)
 7. lambda
 8. синонимы
-9. **string**
+9. [string](https://github.com/fakokk/abstracts/blob/main/9_string.md)
 10. этапы компиляции
 11. *отладка в VS*
 12. умные указатели
