@@ -14,7 +14,7 @@
 12. умные указатели
 13. static_cast
 14. RAII
-15. rvalue, lvalue
+15. {rvalue, lvalue](https://github.com/fakokk/abstracts/blob/main/15_rvalue_lvalue.md)
 16. move
 17. c++ mind map
 18. oop mind map
