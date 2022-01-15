@@ -1,7 +1,7 @@
 ## Тут собраны конспекты по ООП за 3 семестр
 
 1. inc. guard
-2. [enim](https://github.com/fakokk/abstracts/blob/main/2_enum.md)
+2. [enum](https://github.com/fakokk/abstracts/blob/main/2_enum.md)
 3. func ref
 4. элипсис
 5. проект VS
