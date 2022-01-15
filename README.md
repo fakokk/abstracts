@@ -10,7 +10,7 @@
 8. синонимы
 9. [string](https://github.com/fakokk/abstracts/blob/main/9_string.md)
 10. [этапы компиляции](https://github.com/fakokk/abstracts/blob/main/10_этапы_компиляции.md)
-11. *отладка в VS*
+11. [отладка в VS](https://github.com/fakokk/abstracts/blob/main/11_отладка_в_VS.md)
 12. [умные указатели](https://github.com/fakokk/abstracts/blob/main/12_smart_pointer.md)
 13. static_cast
 14. RAII
